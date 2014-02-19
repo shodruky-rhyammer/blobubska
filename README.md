@@ -18,6 +18,8 @@ Epiphany SDK 5
 
 ``sudo apt-get install libfluidsynth-dev fluidsynth fluid-soundfont-gm alsa-base alsa-utils libasound2-plugins``
 
+Switch to TTY by pressing Ctrl + Alt + F2, then login. (Return to X Window: Ctrl + Alt + F7)
+
 ``cd blobubska/src``
 
 ``make``
