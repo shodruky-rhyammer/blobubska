@@ -366,7 +366,7 @@ int main(int argc, char ** argv)
   rtx.sheight = 10.0f;
   rtx.width = 512;
   rtx.height = 512;
-  rtx.xoff = 768;
+  rtx.xoff = 0;
   rtx.yoff = 0;
   rtx.ax = rtx.swidth / (float)rtx.width;
   rtx.ayc = rtx.sheight / (float)rtx.height;
