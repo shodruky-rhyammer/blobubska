@@ -8,9 +8,9 @@ A Realtime Raytracing Visual Music Generator
 
 ## Prerequisites
 
-[Parallella board](http://www.parallella.org/)
-
-OS: Ubuntu
+* [Parallella board Gen 1.1 or later](http://www.parallella.org/)
+* Parallella Official Ubuntu
+* Epiphany SDK 5 or later
 
 Epiphany SDK 5
 
@@ -24,11 +24,11 @@ Switch to TTY by pressing Ctrl + Alt + F2, then login. (Return to X Window: Ctrl
 
 ``make``
 
-``./run``
+``./run.sh``
 
 ## License
 
-BSD 3-Clause license (except other's source code)
+BSD 3-Clause license
 
 ## Bookmarks
 
