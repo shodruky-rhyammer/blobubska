@@ -26,6 +26,22 @@ Switch to TTY by pressing Ctrl + Alt + F2, then login. (Return to X Window: Ctrl
 
 ``./run.sh``
 
+Quit: Escape Key
+
+Mode switching (Generator Mode <-> Play Mode): Enter Key
+
+(Play Mode)
+
+Note:
+Q W E ... I O P
+A S D ... J K L
+
+Scale change: 1 - 8
+
+Instrument Change: Z X C ... B N M
+
+All note off: Space Key
+
 ## License
 
 BSD 3-Clause license
